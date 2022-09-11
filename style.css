@@ -3,11 +3,22 @@
     margin: 0;
     font-family: "Poppins", sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 div{
     height: 100vh;
     width: 100%;
     display: grid;
     place-items: center;
+}
+#loader{
+    height: 100vh;
+    width: 100%;
+    background: #000 url(img/loader.webp) no-repeat center;
+    background-size: 40%;
+    position: fixed;
+    z-index: 10;
 }
 div:nth-child(1){
     background: url(img/one.jpg) center;

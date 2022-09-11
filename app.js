@@ -4,3 +4,5 @@ window.addEventListener("scroll", function(){
     parallax.style.backgroundPositionY = offset * 0.7 + "px";
     console.log(offset)
 })
+
+function load(){loader.style.display = "none"}
