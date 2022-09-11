@@ -20,49 +20,49 @@ div{
     position: fixed;
     z-index: 10;
 }
-div:nth-child(1){
+section div:nth-child(1){
     background: url(img/one.jpg) center;
     background-size: cover;
 }
-div:nth-child(2){
+section div:nth-child(2){
     background: url(img/two.jpg) center;
     background-size: cover;
 }
-div:nth-child(3){
+section div:nth-child(3){
     height: 500px;
     background: url(img/three.jpeg) center;
     background-size: cover;
     background-attachment: fixed;
 }
-div:nth-child(4){
+section div:nth-child(4){
     background: url(img/four.jpg) center;
     background-size: cover;
     background-attachment: fixed;
 }
-div:nth-child(5){
+section div:nth-child(5){
     background: url(img/five.jpg) center;
     background-size: cover;
 }
-div:nth-child(6){
+section div:nth-child(6){
     background: url(img/six.jpg) center;
     background-size: cover;
     background-attachment: fixed;
     height: 600px;
 }
-div:nth-child(7){
+section div:nth-child(7){
     background: url(img/seven.jpg) center;
     background-size: cover;
 }
-div:nth-child(8){
+section div:nth-child(8){
     background: url(img/eight.jpg) center;
     background-size: cover;
     background-attachment: fixed;
 }
-div:nth-child(9){
+section div:nth-child(9){
     background: url(img/nine.jpg) center;
     background-size: cover;
 }
-div:nth-child(10){
+section div:nth-child(10){
     background: url(img/ten.jpg) center;
     background-size: cover;
     background-attachment: fixed;
