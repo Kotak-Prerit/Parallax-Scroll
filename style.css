@@ -12,13 +12,17 @@ div{
     display: grid;
     place-items: center;
 }
-#loader{
+::-webkit-scrollbar{
+    display: none;
+}
+#preloader{
+    background: #D3718D url(img/loader.gif) no-repeat bottom;
+    background-size: 60%;
     height: 100vh;
     width: 100%;
-    background: #000 url(img/loader.webp) no-repeat center;
-    background-size: 40%;
     position: fixed;
     z-index: 10;
+    top: 0;
 }
 section div:nth-child(1){
     background: url(img/one.jpg) center;

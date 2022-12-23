@@ -5,4 +5,5 @@ window.addEventListener("scroll", function(){
     console.log(offset)
 })
 
-function load(){loader.style.display = "none"}
+var loader = document.getElementById("preloader");
+        function load() { preloader.style.display = "none"; }
