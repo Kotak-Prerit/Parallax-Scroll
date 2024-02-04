@@ -25,40 +25,40 @@ div{
     top: 0;
 }
 section div:nth-child(1){
-    background: url(img/one.jpg) center;
+    background: url('https://images.unsplash.com/photo-1632077622353-daeef65ef114?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center;
     background-size: cover;
 }
 section div:nth-child(2){
-    background: url(img/two.jpg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fporsche-911&psig=AOvVaw3OMjZPRpG-4AJWAIXuKps1&ust=1707147328975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiO7cGBkoQDFQAAAAAdAAAAABAR') center;
     background-size: cover;
 }
 section div:nth-child(3){
     height: 500px;
-    background: url(img/three.jpeg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacoders.com%2Fporsche-911-4k-wallpapers&psig=AOvVaw3OMjZPRpG-4AJWAIXuKps1&ust=1707147328975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiO7cGBkoQDFQAAAAAdAAAAABAh') center;
     background-size: cover;
     background-attachment: fixed;
 }
 section div:nth-child(4){
-    background: url(img/four.jpg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fno.pinterest.com%2Fpin%2F355714070582005244%2F&psig=AOvVaw3OMjZPRpG-4AJWAIXuKps1&ust=1707147328975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiO7cGBkoQDFQAAAAAdAAAAABBC') center;
     background-size: cover;
     background-attachment: fixed;
 }
 section div:nth-child(5){
-    background: url(img/five.jpg) center;
+    background: url('https://www.pixel4k.com/wp-content/uploads/2019/01/porsche-964-rwb-cgi-4k_1547937401.jpg.webp') center;
     background-size: cover;
 }
 section div:nth-child(6){
-    background: url(img/six.jpg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.supercars.net%2Fblog%2Fporsche-carrera-gt-wallpapers%2F&psig=AOvVaw3OMjZPRpG-4AJWAIXuKps1&ust=1707147328975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCKiO7cGBkoQDFQAAAAAdAAAAABCaAQ') center;
     background-size: cover;
     background-attachment: fixed;
     height: 600px;
 }
 section div:nth-child(7){
-    background: url(img/seven.jpg) center;
+    background: url('https://vsthemes.org/uploads/posts/workshop/290635045963fc364507adc985456105.webp') center;
     background-size: cover;
 }
 section div:nth-child(8){
-    background: url(img/eight.jpg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hqwalls.com%2F2021%2F02%2Fporsche-models-4k-uhd-wallpapers.html&psig=AOvVaw0u2aZibgcYInXl9GJ8whd8&ust=1707147742333000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjknIeDkoQDFQAAAAAdAAAAABA4') center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -67,7 +67,7 @@ section div:nth-child(9){
     background-size: cover;
 }
 section div:nth-child(10){
-    background: url(img/ten.jpg) center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetwallpapers.com%2Fcollection%2Fporsche-logo-wallpaper&psig=AOvVaw3OMjZPRpG-4AJWAIXuKps1&ust=1707147328975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCKiO7cGBkoQDFQAAAAAdAAAAABCyAQ') center;
     background-size: cover;
     background-attachment: fixed;
 }
